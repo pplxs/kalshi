@@ -1,0 +1,11 @@
+event_ticker,series_ticker,sub_title,title,mutually_exclusive,category,strike_date,strike_period
+JOBLESS-21AUG28,KXJOBLESS,"From Aug 22-28, 2021","Initial jobless claims from Aug 22-28, 2021?",False,Economics,,
+EUCLIMATE,KXEUCLIMATE,By 2030,EU meets its 2030 climate goals?,False,Climate and Weather,,
+INDIACLIMATE-30,KXINDIACLIMATE,By 2030,India meets its 2030 climate goals?,False,Climate and Weather,,
+USCLIMATE,KXUSCLIMATE,2025/2030 goals,US meets its climate goals?,False,Climate and Weather,,
+AITURING,KXAITURING,Before 2030,AI passes Turing test before 2030?,False,Science and Technology,,
+EVSHARE-30JAN,KXEVSHARE,In Jan 2030,EV market share in 2030?,False,Climate and Weather,,
+NONCOMPETEBAN,KXNONCOMPETEBAN,By 2030,Non-compete ban overturned?,False,Politics,,
+KXTRILLIONAIRE-30,KXTRILLIONAIRE,"Before Jan 1, 2030",Who will be the world's first trillionaire?,True,Economics,,
+KXLIVENATIONUS-30,KXLIVENATIONUS,"Before Jan 1, 2030",Courts consider Live Nation a monopoly?,False,Companies,,
+EUEXPANSION,KXEUEXPANSION,By 2030,EU has a new member before 2030?,False,World,,
